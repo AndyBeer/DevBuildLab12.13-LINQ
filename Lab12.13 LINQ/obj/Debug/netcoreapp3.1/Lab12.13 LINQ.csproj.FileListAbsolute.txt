@@ -1,0 +1,14 @@
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\bin\Debug\netcoreapp3.1\Lab12.13 LINQ.exe
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\bin\Debug\netcoreapp3.1\Lab12.13 LINQ.deps.json
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\bin\Debug\netcoreapp3.1\Lab12.13 LINQ.runtimeconfig.json
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\bin\Debug\netcoreapp3.1\Lab12.13 LINQ.runtimeconfig.dev.json
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\bin\Debug\netcoreapp3.1\Lab12.13 LINQ.dll
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\bin\Debug\netcoreapp3.1\Lab12.13 LINQ.pdb
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.csproj.AssemblyReference.cache
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.AssemblyInfoInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.AssemblyInfo.cs
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.dll
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.pdb
+C:\Users\abeer\source\repos\Labs\Lab12.13 Linq\Lab12.13 LINQ\Lab12.13 LINQ\obj\Debug\netcoreapp3.1\Lab12.13 LINQ.genruntimeconfig.cache
